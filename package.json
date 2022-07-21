@@ -1,0 +1,15 @@
+{
+  "name": "keyguardian",
+  "version": "1.0.0",
+  "description": "My last in-person gift to my lovely Tomus before I go to Denmark. I love you very much my lovely Tomus <3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anna",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "dotenv": "^16.0.0"
+  }
+}
